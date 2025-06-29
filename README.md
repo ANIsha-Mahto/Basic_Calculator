@@ -32,18 +32,18 @@ calculator-project/
 
 
 **🧑‍💻 Technologies Used**
-HTML5 – Markup structure
-CSS3 – Layout styling (Grid & Flexbox)
-JavaScript – Input handling and calculation logic
+├──HTML5 – Markup structure
+├──CSS3 – Layout styling (Grid & Flexbox)
+├──JavaScript – Input handling and calculation logic
 
 
 
 **🚀 Getting Started**
 To run the calculator on your local machine:
 
-Clone or download the repository
-Open index.html in any modern web browser
-Start calculating!
+1.Clone or download the repository
+2.Open index.html in any modern web browser
+3.Start calculating!
 
 git clone https://github.com/Anisha-Mahto/basic-calculator.git
 cd basic-calculator
@@ -54,10 +54,10 @@ start index.html
 **🤔 Why This Project?**
 This beginner-friendly project is perfect for:
 
-Practicing DOM manipulation
-Understanding event handling
-Learning CSS Grid layout
-Getting hands-on experience with basic JS logic
+├──Practicing DOM manipulation
+├──Understanding event handling
+├──Learning CSS Grid layout
+├──Getting hands-on experience with basic JS logic
 
 
 **

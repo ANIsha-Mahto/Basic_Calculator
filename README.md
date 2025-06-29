@@ -11,7 +11,11 @@ A stylish and responsive calculator built using **HTML**, **CSS Grid**, and **Ja
 - 🎨 Modern responsive design with custom styling
 - 🧠 Error handling for invalid expressions
 
----
+
+## 🔗 Live Demo
+
+👉 [Click here to use the Calculator](https://anisha-mahto.github.io/Basic_Calculator/)
+
 
 ## 📁 Project Structure
 

@@ -12,9 +12,13 @@ A stylish and responsive calculator built using **HTML**, **CSS Grid**, and **Ja
 - 🧠 Error handling for invalid expressions
 
 
+
+
 ## 🔗 Live Demo
 
 👉 [Click here to use the Calculator](https://anisha-mahto.github.io/Basic_Calculator/)
+
+
 
 
 ## 📁 Project Structure
@@ -26,13 +30,15 @@ calculator-project/
 └── README.md      # Project documentation
 
 
-🧑‍💻 Technologies Used
+
+**🧑‍💻 Technologies Used**
 HTML5 – Markup structure
 CSS3 – Layout styling (Grid & Flexbox)
 JavaScript – Input handling and calculation logic
 
 
-🚀 Getting Started
+
+**🚀 Getting Started**
 To run the calculator on your local machine:
 
 Clone or download the repository
@@ -44,7 +50,8 @@ cd basic-calculator
 start index.html
 
 
-🤔 Why This Project?
+
+**🤔 Why This Project?**
 This beginner-friendly project is perfect for:
 
 Practicing DOM manipulation
@@ -53,7 +60,9 @@ Learning CSS Grid layout
 Getting hands-on experience with basic JS logic
 
 
-📄 License
+**
+📄 License**
 This project is open-source and free to use for educational and personal purposes.
 
-Created with ❤️ Anisha Mahto
+
+**Created with ❤️ Anisha Mahto**
